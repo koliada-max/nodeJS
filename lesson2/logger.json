@@ -1,0 +1,5 @@
+{
+  "fileAppenderPath": "app.log",
+  "errorFileAppenderPath": "app_error.log",
+  "logLevel": "DEBUG"
+}
